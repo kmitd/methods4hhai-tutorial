@@ -1,11 +1,28 @@
-# Characterising HHAI as a Research Field : an Interative Workshop
 2025 edition
 10-06-2025 HHAI2025 Pisa
 
-## Tutorial Content
+## Introduction
 
+Hybrid Intelligence (HI) is a rapidly growing field aiming at creating collaborative systems where humans and intelligent machines synergistically cooperate in mixed teams
+towards shared goals. A clear characterisation of the field is still missing, affecting not only standardisation of vocabularies and reuse of design choices, but also how the overall
+community can identify itself. 
+
+In this workshop, we will work toward gathering data to characterise Hybrid Human-Artificial Intelligence (HHAI) as a research field. In a hands-on session, participants will collaboratively analyse HHAI literature to identify common disciplinary backgrounds, existing and novel methodologies, and theoretical frameworks that are used in the community. Additionally,they will discuss such findings and try to identify interesting directions for the field in concept mapping session.
+
+The result will be a scoping literature review, including a more standardised vocabulary, a set of clear research methods, challenges and future research directions for
+the HHAI field. 
+
+The workshop will also discuss strategies to foster greater interdisciplinary engagement and future activities.
 
 ## Program
+
+In this half-day event, we will mix general discussions and hands-on sessions. At first, we will concisely introduce HHAI as a field, as well as the
+analytical framework for analysing the relevant literature. We will then proceed with 3 hands-on sessions where participants
+will be split into groups and given 2 or 3 2024 or 2025 HHAI papers to analyse using the introduced framework. At the end of each session we take a few minutes to discuss
+progress, problems, and insights. A final concept mapping session of 45 minutes will be dedicated to gather insights and let the HHAI audience think about the directions desired
+for the field. 
+
+Tentative Program 
 
 08:30-09:00 Welcome participants
 
@@ -23,13 +40,13 @@
 
 ## Can I participate?
 
-Of course! The tutorial aims for a broad audience in terms of topics. We are looking for participants that are interested in shaping the future of the HHAI community.
+Of course! The tutorial aims for a broad audience in terms of topics. We are looking for participants that are interested in shaping the future of the HHAI community.  The workshop is also a chance for HHAI authors to look introspectively in their own work, matching it against the field’s directions. So everyone is welcome! 
 
 Also, we will have _treats_ for our participants!
 
 ## Organisers
 
-<img src="IMG_0060_Ilaria_Tiddi-ab6c9337.webp" alt="ilaria" width="200"/> **Ilaria Tiddi** is an Assistant Professor in Hybrid Intelligence at the Knowledge in AI (KAI) group of the Vrije Universiteit Amsterdam (NL). Her research focuses on creating systems that generate complex narratives through a combination of semantic technologies, open data and machine learning, applied mostly in scientific and robotics scenarios.
+<img src="" alt="ilaria" width="200"/> **Ilaria Tiddi** is an Assistant Professor in Hybrid Intelligence at the Knowledge in AI (KAI) group of the Vrije Universiteit Amsterdam (NL). Her research focuses on creating systems that generate complex narratives through a combination of semantic technologies, open data and machine learning, applied mostly in scientific and robotics scenarios.
 
 <img src="" alt="stephanie" width="200"/> **Stephanie Kramer** is a researcher at the ‘Digital Life’ research group at the Amsterdam University of Applied Sciences (NL). Her current research topics include human-centred AI for dementia care, technological support for people with chronic joint illnesses, and an hybrid human-AI educational assistant supporting primary school teachers educating gifted children.
 
