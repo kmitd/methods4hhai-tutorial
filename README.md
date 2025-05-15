@@ -18,15 +18,15 @@ In this half-day event, we will mix general discussions and hands-on sessions. A
 
 Tentative Program
 
-[08:30-09:00 Welcome participants]
+[13:30-14:00 Welcome participants]
 
-09:00-09:30 Introduction to HHAI as a research field and introduction to the analytical framework (30 min.)
+14:00-14:30 Introduction to HHAI as a research field and introduction to the analytical framework (30 min.)
 
-09:30-11:00 Paper analysis, incl. discussion (90 min.)
+14:30-16:00 Paper analysis, incl. discussion (90 min.)
 
-11:00-11:30 Coffee break
+16:00-16:30 Coffee break
 
-11:30-13:00 Concept Mapping Session, incl. drawing cross-disciplinary collaboration ideas (90 min.)
+16:30-18:00 Concept Mapping Session, incl. drawing cross-disciplinary collaboration ideas (90 min.)
 
 ## Can I participate?
 
