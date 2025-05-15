@@ -3,46 +3,38 @@
 
 ## Introduction
 
-Hybrid Intelligence (HI) is a rapidly growing field aiming at creating collaborative systems where humans and intelligent machines synergistically cooperate in mixed teams
-towards shared goals. A clear characterisation of the field is still missing, affecting not only standardisation of vocabularies and reuse of design choices, but also how the overall
-community can identify itself. 
+Hybrid Intelligence (HI) is a rapidly growing field aiming at creating collaborative systems where humans and intelligent machines synergistically cooperate in mixed teams towards shared goals. A clear characterisation of the field is still missing, affecting not only standardisation of vocabularies and reuse of design choices, but also how the overall community can identify itself.
 
-In this workshop, we will work toward gathering data to characterise Hybrid Human-Artificial Intelligence (HHAI) as a research field. In a hands-on session, participants will collaboratively analyse HHAI literature to identify common disciplinary backgrounds, existing and novel methodologies, and theoretical frameworks that are used in the community. Additionally,they will discuss such findings and try to identify interesting directions for the field in concept mapping session.
+In this workshop, we will work toward gathering data to characterise Hybrid Human-Artificial Intelligence (HHAI) as a research field. In a hands-on session, participants will collaboratively analyse HHAI literature to identify common disciplinary backgrounds, existing and novel methodologies, and theoretical frameworks that are used in the community. Additionally, they will discuss such findings and try to identify interesting transdisciplinary directions for the field in a concept mapping session. 
 
-The result will be a scoping literature review, including a more standardised vocabulary, a set of clear research methods, challenges and future research directions for
-the HHAI field. 
+The result will contribute to a scoping literature review, including a more standardised vocabulary, a set of clear research methods, challenges and future research directions for the HHAI field.
 
 The workshop will also discuss strategies to foster greater interdisciplinary engagement and future activities.
 
+
 ## Program
 
-In this half-day event, we will mix general discussions and hands-on sessions. At first, we will concisely introduce HHAI as a field, as well as the
-analytical framework for analysing the relevant literature. We will then proceed with 3 hands-on sessions where participants
-will be split into groups and given 2 or 3 2024 or 2025 HHAI papers to analyse using the introduced framework. At the end of each session we take a few minutes to discuss
-progress, problems, and insights. A final concept mapping session of 45 minutes will be dedicated to gather insights and let the HHAI audience think about the directions desired
-for the field. 
+In this half-day event, we will mix general discussions and hands-on sessions. At first, we will concisely introduce HHAI as a field, as well as the analytical framework for analysing the relevant literature. We will then proceed with a hands-on session where participants will be split into groups and given a HHAI paper to analyse using the introduced framework. At the end of the session, we will discuss progress, problems, and insights. After the coffee break, we will do a concept mapping session, dedicated to gathering collective insights and considering how we might bring our different disciplinary approaches together in the field of HHAI. The concept mapping session will address the following question: "What core elements, perspectives, and approaches define Hybrid Human-Artificial Intelligence as a distinct and cohesive research domain?"
 
-Tentative Program 
+Tentative Program
 
-08:30-09:00 Welcome participants
+[08:30-09:00 Welcome participants]
 
-09:00-09:30 Introduction to HHAI and the analytical framework
+09:00-09:30 Introduction to HHAI as a research field and introduction to the analytical framework (30 min.)
 
-09:30-10:15 Session 1 - Paper analysis (incl. discussion)
+09:30-11:00 Paper analysis, incl. discussion (90 min.)
 
-10:15-11:00 Session 2 - Paper analysis (incl. discussion)
+11:00-11:30 Coffee break
 
-11:00-11:45 Session 3 - Paper analysis (incl. discussion)
-
-11:45-12:30 Concept Mapping Session and final remarks (incl. drawing cross-disciplinary collaboration ideas).
-
-(The sessions are planned one after the other, but will be adapted to include a coffee break once the conference program is released.)
+11:30-13:00 Concept Mapping Session, incl. drawing cross-disciplinary collaboration ideas (90 min.)
 
 ## Can I participate?
 
-Of course! The tutorial aims for a broad audience in terms of topics. We are looking for participants that are interested in shaping the future of the HHAI community.  The workshop is also a chance for HHAI authors to look introspectively in their own work, matching it against the field’s directions. So everyone is welcome! 
+Of course! The tutorial aims for a broad audience in terms of topics. We are looking for participants that are interested in shaping the future of the HHAI community. The workshop is also a chance for HHAI authors to look introspectively in their own work, matching it against the field’s directions. So everyone is welcome!
 
-Also, we will have _treats_ for our participants!
+You can also contact us at s.kramer2@hva.nl if you want to bring in your own paper (from the HHAI 2025 conference or earlier HHAI conferences) as input for the paper analysis session.
+
+Also, we will have treats for our participants!
 
 ## Organisers
 
